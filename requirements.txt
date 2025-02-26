@@ -1,5 +1,8 @@
 openai 
 langchain
 streamlit
-python -dotenv
+python-dotenv #reads values from .env file
 PyPDF2
+
+
+-e .
